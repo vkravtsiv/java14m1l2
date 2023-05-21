@@ -6,5 +6,6 @@ git log -> показує історію комітів
 git push -> copy from local to git hub
 changes on branch3
 hesh5
+changes on branch5
 
  
