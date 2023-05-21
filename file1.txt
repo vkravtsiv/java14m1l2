@@ -1,3 +1,5 @@
 git init -> створення нового репозитарію
 git status -> to check changes
-git commit -m "commit channges" -> закомітити зміни в репозитарію
+git commit -m "commit channges" -> закомітити зміндодає всі файли и в репозитарію
+git add . -> додає всі файли в stagging area
+git log -> показує історію комітів
