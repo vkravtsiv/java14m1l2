@@ -4,5 +4,7 @@ git commit -m "commit channges" -> закомітити зміндодає вс�
 git add . -> додає всі файли в stagging area
 git log -> показує історію комітів
 git push -> copy from local to git hub
+changes on branch3
+hesh5
 
  
