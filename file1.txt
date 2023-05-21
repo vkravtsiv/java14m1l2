@@ -1,1 +1,3 @@
 git init -> створення нового репозитарію
+git status -> to check changes
+git commit -m "commit channges" -> закомітити зміни в репозитарію
